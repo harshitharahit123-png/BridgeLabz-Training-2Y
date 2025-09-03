@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class mean_height{
+public class mean__height{
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         float [] height = new float[11];
@@ -12,4 +12,5 @@ public class mean_height{
         float mean = sum/height.length;
         System.out.print("The mean height is " + mean);
     }
+
 }
