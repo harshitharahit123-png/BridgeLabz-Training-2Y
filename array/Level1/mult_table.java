@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class multiplication_table{
+public class mult_table{
     public static void main(String[] args){
         System.out.print('Enter the number from 6 to 9: ');
         int number;
@@ -17,4 +17,5 @@ public class multiplication_table{
             System.out.println("Invalid input. Please enter a number between 6 and 9.");
         }
     }
+
 }
