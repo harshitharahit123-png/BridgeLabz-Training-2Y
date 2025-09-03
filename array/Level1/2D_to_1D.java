@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class 2D_D{
+public class 2D_to_1D{
     public static void main(String[] args){
         Scanner scanner = new Scanner(Sytem.in);
         int row,column;
@@ -23,4 +23,5 @@ public class 2D_D{
             }
         }
     }
+
 }
