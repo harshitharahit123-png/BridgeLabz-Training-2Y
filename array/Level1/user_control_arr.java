@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class user_control_array{
+public class user_control_arr{
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         int [] arr = new int[10];
@@ -21,4 +21,5 @@ public class user_control_array{
         }
         System.out.println("The sum is: " + sum);
     }
+
 }
