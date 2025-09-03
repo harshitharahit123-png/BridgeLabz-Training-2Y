@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class bmi_calculation {
+public class BMI_calculation {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -49,3 +49,4 @@ public class bmi_calculation {
         sc.close();
     }
 }
+
