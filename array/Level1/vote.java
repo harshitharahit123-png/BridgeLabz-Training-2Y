@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class can_vote{
+public class vote{
     public static void main(String[] args){
         int[] arr = new int[10];
         Scanner scanner =  new Scanner(System.in);
@@ -15,4 +15,5 @@ public class can_vote{
             }
     }
 }
+
 }
